@@ -195,7 +195,7 @@ a { color: #282f35; -webkit-transition: all .25s ease; -moz-transition: all .25s
 a:hover { color: #64c29e; text-decoration: none; }
 p { text-align: center; font-size: 14px; color: #848789; font-weight: 300; word-spacing: 2px; line-height: 1.8em; margin-top: 25px; }
 p.text-intro { font-size: 18px; }
-.profile-pic { background: url(../img/comp1.jpg) no-repeat top center #f4f5fc; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 500px; }
+.profile-pic { background: url(../img/comp1.jpg) no-repeat top center #f4f5fc; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 900px; }
 nav { height: 85px; margin-top: 30px; position: relative; }
 .logo-holder { background: url("http://i.imgur.com/C0u96pt.png?2") no-repeat center center; width: 94px; height: 85px; position: absolute; top: 0; left: 327px; }
 .responsive-logo { display: hidden; }
@@ -257,7 +257,7 @@ section.sign_up { padding: 40px 0 110px 0; }
 footer { background-color: #f7f7f7; padding: 100px 0; }
 footer p { font-size: 13px; margin: 0; }
 .footer-leftcol p { text-align: left; }
-.footer-rightcol p { text-align: right; font-style: italic; margin-top: 20px; }
+.footer-rightcol p { text-align: right; font-style: italic; margin-bottom: 20px; }
 .bold-16p { font-size: 15px; font-weight: 600; }
 .footer-midcol { margin-left: auto; margin-right: auto; }
 .footer-midcol ul { text-align: center; padding: 0; }
@@ -269,6 +269,7 @@ footer p { font-size: 13px; margin: 0; }
 .pintrest-icon { background: url(../img/pintrest-icon.png); height: 34px; width: 35px; display: block; text-indent: -9999px; }
 .wp1, .wp2, .wp3, .wp4, .wp5, .wp6 { visibility: hidden; }
 .bounceInLeft, .bounceInRight, .fadeInUp { visibility: visible; }
+#lo {padding-bottom: 20px;}
 #categories{
   overflow:hidden;
   width:90%;
@@ -303,7 +304,7 @@ footer p { font-size: 13px; margin: 0; }
   width:100%;
   height:100%;
   text-align:center;
-  color:#fff;
+  color:#D04451;
   overflow:hidden;
   transform: skewY(-30deg) rotate(60deg);  
 	backface-visibility:hidden;
