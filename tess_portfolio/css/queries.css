@@ -31,3 +31,17 @@ CSS Queries
     .pullcontainer { width: 100%; text-align: right; padding: 20px 20px 0 0; }
     .pullcontainer a#pull { display: block; width: 100%; color: #242a2c; }
 }
+
+@media screen and (max-width:640px){
+    #categories li h1{
+        font-size: 13px;
+      }
+
+    .section-1{
+        background: url("http://i.imgur.com/NfosAJX.png?2");
+    }
+
+    .section-4{
+        display:none;
+    }
+}
