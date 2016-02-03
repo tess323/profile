@@ -446,6 +446,8 @@ footer p { font-size: 13px; margin: 0; padding-top: 65px; }
     margin-left:1%;
     margin-right:1%;
   }
+
+  
 }
 @media (max-width: 600px) {
   #categories li{
@@ -466,4 +468,35 @@ footer p { font-size: 13px; margin: 0; padding-top: 65px; }
   #categories li:nth-child(2n+2) {
     margin-left:1%;
   }
+
 }
+
+@media screen and (max-width:640px) {
+    .profile-pic{
+    display:none;
+  }
+}
+
+@media screen and (max-width:640px){
+    #categories li h1{
+        font-size: 13px;
+      }
+
+    .section-1{
+        background: url("http://i.imgur.com/Gg5f58Z.png?1") no-repeat center center;
+    }
+
+    .section-4{
+        display:none;
+    }
+    .footer-rightcol{
+        display:none;
+    }
+  
+    .links ul li{
+     font-size: .7em;
+     margin-left: -15px
+  }
+
+}
+

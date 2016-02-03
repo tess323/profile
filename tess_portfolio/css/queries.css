@@ -4,6 +4,7 @@ CSS Queries
 
 @media screen and (max-width:640px) {
     .shop-btn { padding: 15px 25px; font-size: 10px; }
+
 }
 @media screen and (max-width:1200px) {
     p{font-size: 14px; }
@@ -32,16 +33,8 @@ CSS Queries
     .pullcontainer a#pull { display: block; width: 100%; color: #242a2c; }
 }
 
-@media screen and (max-width:640px){
-    #categories li h1{
-        font-size: 13px;
-      }
 
-    .section-1{
-        background: url("http://i.imgur.com/NfosAJX.png?2");
-    }
 
-    .section-4{
-        display:none;
-    }
-}
+
+
+
