@@ -207,6 +207,7 @@ header ul li a { display: block; margin: 0 30px; color: #4d4959; }
 .intro { padding: 115px 0; background-color: #fbfbfb; }
 .section-1 { background: url(../img/moodboard-title.png) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
 .section-2 { background: url(../img/canvas.png) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
+.section-5 { background: url(../img/kitchen_store.png) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
 .section-3 { background: url(../img/falling_leaves.png) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
 .section-4 { background: url(../img/falling_leave2.png) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; }
 .section-text { position: relative; height: 600px; }
